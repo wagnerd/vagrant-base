@@ -10,6 +10,12 @@ A few commands to handle the box from the command line inside this directory.
 vagrant up
 ```
 
+### Start the Box
+
+```bash
+vagrant provision
+```
+
 ### Stop the Box
 
 ```bash
